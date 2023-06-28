@@ -1,4 +1,6 @@
-//You have a page where both the student and tutor logins under the same url but have two buttons seperate for the student and tutor.
+import AppleLogin from './apple'
+
+//You have a page where amore than one apple login button is used on the same page.
 
 
 <div className="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
